@@ -1,3 +1,6 @@
+## New and Updated Repository
+https://github.com/noureldien/timeception
+
 ## Timeception for Complex Action Recognition
 This code repository is the implementation for the paper [Timeception for Complex Action Recognition](https://arxiv.org/abs/1812.01289).
 We provide the implementation for 3 different libraries: `keras`, `tensorflow` and `pytorch`.
